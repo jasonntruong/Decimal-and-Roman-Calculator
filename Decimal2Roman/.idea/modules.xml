@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Decimal-and-Roman-Calculator-Decimal2Roman.iml" filepath="$PROJECT_DIR$/Decimal-and-Roman-Calculator-Decimal2Roman.iml" group="Decimal2Roman" />
       <module fileurl="file://$PROJECT_DIR$/Decimal2Roman.iml" filepath="$PROJECT_DIR$/Decimal2Roman.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Decimal2Roman/app" />
     </modules>
   </component>
 </project>
